@@ -3,6 +3,7 @@
 
 ```javascript
 const whoami = {
+  recognizance: "parthisanerd",
   name: "Parth",
   pronouns: "He | Him",
   age: 15,
@@ -24,7 +25,7 @@ const whoami = {
     interest_4: "Machine learning",
     interest_5: "Artificial Intelligence",
   },
-  aim : "Heading forward to build a computing future",
+  aim : "Heading forward to build a contiguous computing future",
 }
 const greet = "Hey, thanks a lot for giving my profile sometime, I hope you would love my projects."
 console.log(whoami);
